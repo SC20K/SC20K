@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @SC20K
-- 👀 I’m interested in ni detseretin m'I
+- 👋 Hi, I’m @Hmelnik
 - 🌱 I’m currently learning web
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me https://vk.com/annbbu

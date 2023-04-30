@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hmelnik
+- 👋 Hi, I’m .
 - 🌱 I’m currently learning web
 - 💞️ I’m looking to collaborate on myself
-- 📫 How to reach me https://vk.com/annbbu
+- 📫 How to reach me 
 
 <!---
 SC20K/SC20K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
